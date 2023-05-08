@@ -1,0 +1,27 @@
+.footer__link {
+    margin: 0;
+    margin-right: 18px;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    transition: ease-in-out;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+}
+
+@media all and (max-width:767px) and (min-width:320px) {
+    .footer__link {
+        margin: 0;
+        width: 74px;
+        height: 24px;
+        margin-bottom: 32px;
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .footer__link:nth-child(5) {
+        margin-bottom: 48px;
+    }
+}
