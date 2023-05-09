@@ -1,6 +1,5 @@
 .cover {
     min-width: 320px;
-    min-height: 200px;
     max-width: 1184px;
     margin: 0;
     margin-left: auto;
@@ -12,8 +11,6 @@
 @media screen and (min-width:1024px) and (max-width:1279px) {
     .cover {
         min-width: 1024px;
-        min-height: 640px;
-        max-width: 1184px;
         margin-bottom: 97px;
     }
 }
@@ -21,8 +18,7 @@
 @media screen and (max-width:1023px) and (min-width:768px) {
     .cover {
         min-width: 768px;
-        min-height: 480px;
-        max-width: 1024px;
+
         margin-top: 90px;
     }
 }
@@ -31,7 +27,5 @@
     .cover {
         margin-top: 66px;
         min-width: 320px;
-        min-height: 200px;
-        max-width: 768px;
     }
 }
