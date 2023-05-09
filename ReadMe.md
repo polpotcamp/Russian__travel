@@ -1,4 +1,4 @@
 # сайт Путешествие по России
 ## сайт отличается от предыдущго: адаптивностью.
 ## используемыне технологии: HTML5 CCS3.
-## ссылка на гитхаб https://github.com/polpotcamp/Russian__travel
+## ссылка на сайт на гитхаб https://polpotcamp.github.io/Russian__travel/
